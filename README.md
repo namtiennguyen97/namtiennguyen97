@@ -6,9 +6,11 @@ The ridiculous thing that i always put my year of birth in every social account 
 always got taken. @@ i hate that but i have no choice.
 
 
-//Did u see my avatar? yea it is my painting with only 1 my finger on mobile with random mood- The painting about my character in game. I know this is not something to proud of, and the entire that draw is not good at all, but i just want to tell u my hobbies ^^.
+
 
 <!---
 namtiennguyen97/namtiennguyen97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+Did u see my avatar? yea it is my painting with only 1 my finger on mobile with random mood- The painting about my character in game. I know this is not something to proud of, and the entire that draw is not good at all, but i just want to tell u my hobbies ^^.
 --->
