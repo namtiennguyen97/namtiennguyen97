@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nam Nguyen.
 - 👀 I’m interested in coding, video game, ost and especial drawing the manga/game. 
-- 🌱 I’m currently learning Php- Laravel, Angular...
+
 
 
 
